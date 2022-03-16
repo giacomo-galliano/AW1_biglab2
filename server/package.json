@@ -1,0 +1,34 @@
+{
+  "name": "biglab2-2gcd",
+  "version": "1.0.0",
+  "description": "## Team name: 2GCD",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polito-AW1-AL-2021-exam/biglab2-2gcd/issues"
+  },
+  "homepage": "https://github.com/polito-AW1-AL-2021-exam/biglab2-2gcd#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dayjs": "^1.10.4",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "express-validator": "^6.11.1",
+    "morgan": "^1.10.0",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.5.2",
+    "react-router-dom": "^5.2.0",
+    "sqlite": "^4.0.22",
+    "sqlite3": "^5.0.2"
+  }
+}
